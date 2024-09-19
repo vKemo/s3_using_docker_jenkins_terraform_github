@@ -1,1 +1,1 @@
-# Don't forget the npm install to download node_modules folder with it's content
+# Don't forget the $ npm install (command in terminal) to download node_modules folder with it's content
