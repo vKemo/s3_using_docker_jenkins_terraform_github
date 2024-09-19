@@ -1,1 +1,1 @@
-# s3_using_docker_jenkins_terraform_github
+# Don't forget the npm install to download node_modules folder with it's content
