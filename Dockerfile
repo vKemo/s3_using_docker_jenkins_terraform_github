@@ -1,6 +1,6 @@
 #Use a Node.js as a base image
 
-FROM node:19-alpine
+FROM node:19-alpine AS build
 
 #Set the working directory
 
